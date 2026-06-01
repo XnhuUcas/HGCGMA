@@ -7,7 +7,7 @@ This repository is the implementation of "*Optimal Model Averaging for Heterogen
 - **`main_functions`**
   - HGCGMA.r: main function of the proposed algorithm;
   - data_generate.r: function for simulation data generation;
-  - estimate_Omega.r: 
+  - estimate_Omega.r: auxiliary function;
   - cov_est.r: auxiliary function;
   - Omega_est.r: auxiliary function;
     
